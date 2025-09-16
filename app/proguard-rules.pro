@@ -1,0 +1,2 @@
+-keep,allowoptimization class io.github.dovecoteescapee.byedpi.** { *; }
+-dontobfuscate
